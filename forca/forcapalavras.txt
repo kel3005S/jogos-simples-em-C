@@ -1,0 +1,11 @@
+10
+uva
+banana
+abacaxi
+melancia
+mamao
+limao
+goiaba
+manga
+granola
+pera
